@@ -1,0 +1,4 @@
+WIFI_SSID;rasp-drone;
+WIFI_USER;none;
+WIFI_PSWD;raspberry;
+URL_POST_DATA;http://192.168.4.1/post.php;
